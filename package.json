@@ -37,7 +37,7 @@
   "homepage": "https://github.com/DIYgod/RSSHub#readme",
   "devDependencies": {
     "@napi-rs/pinyin": "^1.6.1",
-    "@types/cheerio": "0.22.24",
+    "@types/cheerio": "0.22.30",
     "@types/got": "9.6.11",
     "@types/koa": "2.13.1",
     "@vuepress/plugin-back-to-top": "1.8.2",
@@ -112,7 +112,7 @@
     "rss-parser": "3.10.0",
     "showdown": "1.9.1",
     "simplecc-wasm": "0.1.2",
-    "socks-proxy-agent": "5.0.1",
+    "socks-proxy-agent": "6.0.0",
     "string-similarity": "^4.0.3",
     "tiny-async-pool": "1.2.0",
     "torrent-search-api": "^2.1.3",
